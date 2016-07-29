@@ -1,6 +1,6 @@
 # Shop-for-iOS
 
-#### 注意：该项目已经不再维护了，请使用 ETShop-for-iOS  https://github.com/EleTeam/ETShop-for-PHP-Yii2
+#### 注意：该项目已经不再维护了，请使用 ETShop-for-iOS    https://github.com/EleTeam/ETShop-for-iOS
 #### IOS商城，电商开源APP，类似京东商城，天猫商城，淘宝，去年开发的一个项目，现在把它分享出来。
 #### 服务端是Java 商城，对应项目是Shop-for-JavaWeb
 
