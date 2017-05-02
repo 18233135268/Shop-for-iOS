@@ -31,7 +31,6 @@
 
 ###### Created by Tony Wong
 ###### Copyright © 2015 YKXMall. All rights reserved.
-###### email 908601756@qq.com
 
 ###### 此源码遵守 The MIT License (MIT)，可用于商业上，但是因此带来的商业损失本作者不承担责任。
 
